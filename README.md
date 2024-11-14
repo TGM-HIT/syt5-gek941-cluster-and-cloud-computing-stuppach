@@ -4,6 +4,11 @@
 **Authors:** Stuppig Markus 5DHIT, Wallpach Melissa 5BHIT
 **Version:** 2024-11-14
 
+## Einführung 
+In dieser Aufgabe wird Kubernetes als aktuelle Lösung zum Starten und Verwalten von verteilten Rechnungsresourcen behandelt. Kubernetes bietet sich hier als eine beliebte, konstenlose Open-Source Lösung, die bei den meisten Cloud-Anbietern aber auch im eigenen Einsatz in einer On-Premise Cloud zum Einsatz kommt.
+
+**Ziel** ist der Einsatz von Orchestrierungs-Engine zur Bereitstellung und Skalierung von Containeranwendungen.
+
 ## Fragestellungen 
 ### Unterschiede zwischen klassischen VMs und Containern
 
